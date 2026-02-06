@@ -521,9 +521,9 @@ Estes tidak menyerang, tapi menyembuhkan teman!
 ---
 
 ## 👨‍💻 Informasi Praktikan
-- **Nama**: [Nama Praktikan]
-- **Kelas**: XI RPL
-- **Tanggal Praktikum**: [Tanggal]
+- **Nama**: Ahmad Fauzan
+- **Kelas**: XI RPL 1
+- **Tanggal Praktikum**: 6 Februari 2026
 - **Status**: ✅ Selesai
 
 ---
